@@ -21,7 +21,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src="http://g.recordit.co/wImSN9DjGm.gif" width=250><br
+<img src="http://g.recordit.co/wImSN9DjGm.gif" width=250><br>
 
 ### Notes
 One of the challenges I had is that I'm new to Swift and using xcode, so I was confused when it showed up "Flixter_demo[73089:1494439] [] nw_protocol_get_quic_image_block_invoke dlopen libquic failed", but after checking online, I assume it's because I have deleted the original component(Imageview) after I found it is placed wrong in the wrong place. The whole process is confusing, so I spend at least 2 times to redo everything.
