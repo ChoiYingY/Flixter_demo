@@ -20,6 +20,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 As I mentioned, I'm new to Swift and xcode, so when they had displayed black screen, I don't know how to fix it until I realize I have to move the arrow to the tab bar controller in order to make it as the first screen to view. It took me an necessary hour to retry this over and over again. And also sometimes I had exception issues, but as I watched the tutorial video again, I realize I forgot to add the identifier of "MovieGridCell" too. The videos are very helpful and informative.
+I think there is a glitch when I click on the movie and slide over the content on "Now Playing" because the transition looks weird. But I wasn't sure how to fix this.
 
 ---
 
